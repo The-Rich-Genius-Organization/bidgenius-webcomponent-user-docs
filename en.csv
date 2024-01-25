@@ -1,0 +1,52 @@
+Attribute,en-US
+text-for-bid-currency-reference,Your bid will placed in USD as
+text-for-bid-next-mininum,The minimum next bid is
+text-for-button-bid,Place Bid of
+text-for-button-confirm,Confirm
+text-for-button-go-back,Go back
+text-for-button-reset-password,Reset password
+text-for-button-sign-in,Sign in
+text-for-button-sign-out,Sign out
+text-for-button-sign-up,Sign up
+text-for-dialog-confirm,Okay
+text-for-oops,Oops!
+text-for-error-bid-rejected-disallowed-request-fields-missing,Missing listing or bid info
+text-for-error-bid-rejected-disallowed-leader,You are already the highest bidder
+text-for-error-bid-rejected-bettered-already,That bid has already been bettered
+text-for-error-bid-rejected-disallowed-own,You cannot bid on your own listing
+text-for-error-bid-rejected-price-less-than-current,Bid must be greater than current price
+text-for-error-dialog-title,Error
+text-for-error-dialog-title-sorry,Sorry
+text-for-error-invalid-credentials,Invalid credentials. Please try again
+text-for-error-invalid-credentials-mismatch,Credentials do not match. Please try again
+text-for-error-invalid-registration-token,Invalid registration token
+text-for-error-invalid-email-address,Invalid email
+text-for-error-listing-not-active,This listing is not active at this time
+text-for-error-listing-not-found,Listing not found
+text-for-error-registration-failed,Registration failed
+text-for-error-reset-password-failed,Reset password failed
+text-for-error-terms-required,Please agree to our Terms
+text-for-input-placeholder-confirm-password,confirm password
+text-for-input-placeholder-email-address,email address
+text-for-input-placeholder-new-password,new password
+text-for-input-placeholder-password,password
+text-for-input-placeholder-register-token,registration token
+text-for-input-placeholder-reset-token,reset token
+text-for-link-forgot-password,Forgot password?
+text-for-link-go-back,Go back
+text-for-loading,Loading...
+text-for-recent-bids,Recent bids
+text-for-status-closed,Closed
+text-for-status-not-yet-open,Scheduled for 
+text-for-success-title,Success
+text-for-success-bid-placed,Your bid has been placed
+text-for-success-verification-email-sent,Verification email sent
+text-for-success-password-reset,Password reset successfully
+text-for-success-password-reset-email-sent,Password reset email sent
+text-for-terms-agree,I have read and agree to the Terms of Service
+text-for-time-remaining,Time remaining:
+text-for-time-remaining-day,day
+text-for-time-remaining-days,days
+text-for-verify-required-title,Please verify your account with us
+text-for-verify-prompt,Trying to bid? You must contact the seller to verify your account.
+text-for-bid-currency-reminder,"* All bids will be converted to USD, conversion rates may vary"
